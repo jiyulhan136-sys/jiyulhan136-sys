@@ -11,7 +11,7 @@
 <!-- 타이핑 애니메이션 인사말 (개발자 VIII 적용) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B892FF&center=true&vCenter=true&width=520&lines=%E2%9C%A7+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90+VIII%EC%9E%85%EB%8B%88%EB%8B%A4.;%F0%9F%A6%8B+Code+like+a+butterfly+in+the+starlight.;%E2%9C%A8+Welcome+to+VIII's+GitHub+Space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B892FF&center=true&vCenter=true&width=520&lines=%E2%9C%A7+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90+VIII%EC%9E%85%EB%8B%88%EB%8B%A4.;%F0%9F%A6%8B+Code+like+a+butterfly+in+Styxia.;%E2%9C%A8+Welcome+to+VIII's+GitHub+Space!" alt="Typing SVG" />
   </a>
 </div>
 
